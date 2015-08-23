@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DUIApp", "DUIApp\DUIApp.vcproj", "{8276B7C8-05F7-4771-AFCE-627F8A8D4107}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|CE2443I (ARMV4I) = Debug|CE2443I (ARMV4I)
+		Debug|Win32 = Debug|Win32
+		Release|CE2443I (ARMV4I) = Release|CE2443I (ARMV4I)
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8276B7C8-05F7-4771-AFCE-627F8A8D4107}.Debug|CE2443I (ARMV4I).ActiveCfg = Debug|CE2443I (ARMV4I)
+		{8276B7C8-05F7-4771-AFCE-627F8A8D4107}.Debug|CE2443I (ARMV4I).Build.0 = Debug|CE2443I (ARMV4I)
+		{8276B7C8-05F7-4771-AFCE-627F8A8D4107}.Debug|CE2443I (ARMV4I).Deploy.0 = Debug|CE2443I (ARMV4I)
+		{8276B7C8-05F7-4771-AFCE-627F8A8D4107}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8276B7C8-05F7-4771-AFCE-627F8A8D4107}.Debug|Win32.Build.0 = Debug|Win32
+		{8276B7C8-05F7-4771-AFCE-627F8A8D4107}.Release|CE2443I (ARMV4I).ActiveCfg = Release|CE2443I (ARMV4I)
+		{8276B7C8-05F7-4771-AFCE-627F8A8D4107}.Release|CE2443I (ARMV4I).Build.0 = Release|CE2443I (ARMV4I)
+		{8276B7C8-05F7-4771-AFCE-627F8A8D4107}.Release|CE2443I (ARMV4I).Deploy.0 = Release|CE2443I (ARMV4I)
+		{8276B7C8-05F7-4771-AFCE-627F8A8D4107}.Release|Win32.ActiveCfg = Release|Win32
+		{8276B7C8-05F7-4771-AFCE-627F8A8D4107}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
